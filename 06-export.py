@@ -1,3 +1,5 @@
+#The following script has been polished by Claude
+
 # Set my destination folder
 
 output_folder = r"D:\BCIT\Winter 2026\BI2\CS1"
