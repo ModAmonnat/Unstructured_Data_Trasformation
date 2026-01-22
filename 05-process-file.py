@@ -1,3 +1,5 @@
+#The following script has been polished by Claude
+
 def process_all_files(folder_path):
     data_list = []
     
