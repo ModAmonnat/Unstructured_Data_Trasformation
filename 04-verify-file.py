@@ -1,3 +1,5 @@
+#The following script has been polished by Claude
+
 #Count the number of files to ensure process all files correctly
 from pathlib import Path
 
